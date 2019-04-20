@@ -7,5 +7,6 @@ public class Hello
         System.out.println("hello world!!!");
         System.out.println("I am zzl");
         System.out.println("test");
+        int a = 0;
     }
 }
