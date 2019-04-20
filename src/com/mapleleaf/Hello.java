@@ -8,5 +8,6 @@ public class Hello
         System.out.println("I am zzl");
         System.out.println("test");
         System.out.println("master");
+        System.out.println("conflict");
     }
 }
